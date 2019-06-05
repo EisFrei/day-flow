@@ -1,0 +1,21 @@
+{
+  "name": "day-flow",
+  "version": "0.0.1",
+  "description": "Get values like percentage of day/night passed at geolocation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sunrise",
+    "sunset",
+    "day",
+    "night",
+    "percentage"
+  ],
+  "author": "martin.freisen@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "sunrise-sunset-js": "^2.1.0"
+  }
+}
